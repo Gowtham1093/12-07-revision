@@ -3,9 +3,9 @@ hello everu one
 
 
 
-
-
-
+ten
+eleven
+twelve
 
 public class SpiralPatternExample2
 {  
