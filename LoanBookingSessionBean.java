@@ -1,9 +1,19 @@
 hello everu one
+<<<<
 twenty four
 run
 crawl
 fly
 
+
+=======
+
+
+
+
+ten
+eleven
+twelve
 
 
 public class SpiralPatternExample2
